@@ -2,7 +2,6 @@
 Sistema dinámico de funciones en JavaScript con soporte síncrono y asíncrono
 
 
-
 # ⚙️ Motor de Funciones en JavaScript
 Sistema dinámico que permite registrar y ejecutar funciones de forma flexible, soportando tanto ejecución síncrona como asíncrona.
 
